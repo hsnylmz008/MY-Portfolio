@@ -308,10 +308,14 @@ section {
                     }
                     .php { width: 100%; }
                     .go { width: 75%; }
-                    .js { width: 75%; }
-                    .react{ width: 60%; }
-                    .node{ width: 87%; }
-                    .python{ width: 70%; }
+                    .mysql { width: 100%; }
+                    .mongodb{ width: 95%; }
+                    .redis{ width: 90%; }
+                    .docker{ width: 90%; }
+                    .rabbitmq{ width: 95%;}
+                    .elasticsearch{ width: 85%;}
+                    .solr{ width: 90%;}
+                    .javascript { width: 75%;}
                 }
             }
         }
